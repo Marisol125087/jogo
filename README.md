@@ -14,16 +14,10 @@
 * Mudança de cores
 * Velocidade
 
-### Melhorias Possíveis
-1. [ ] Subir para o GitHubPages
-2. [ ] Alterar os alerts
-3. [ ] Utilizar o Bootstrap
-4. [ ] Deixar responsivo 
-
 ### Disponibilizado em
 [GitHubPages](https://fabioramos-02.github.io/loteca-mat/)
 
 | ID | Primeira tela | Segunda Tela |
 |----|---------------|--------------|
-| 1 | Loteca Limpa   | loteca Preenchida |
+| 1 | Inicio   | Game Over |
 | 2 | ![tela de Inicio](https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png) | ![Tela de Game Over](https://user-images.githubusercontent.com/101193108/161655091-1a0d8e76-d9eb-4165-87c6-4650acea5b2a.png) |
