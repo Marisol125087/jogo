@@ -20,7 +20,7 @@
   
 ## Tela de inicio do Game
   
-  <img src="!https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png
+  <img src="https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png
 "></img>
 
 
