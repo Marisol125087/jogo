@@ -26,5 +26,5 @@
 
 ## Tela de Game Over
 
- <img src="https://user-images.githubusercontent.com/101193102/160513677-3352b23b-35a6-425d-b5dd-a06f3ba02f68.png"></img>
+ <img src="https://user-images.githubusercontent.com/101193108/161655091-1a0d8e76-d9eb-4165-87c6-4650acea5b2a.png"></img>
 </span>
