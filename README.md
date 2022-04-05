@@ -1,13 +1,11 @@
 # Mini-Game  Among Us
 * https://www.youtube.com/watch?v=C3WZrP0zlUk
-## Conhecimentos
 
-* Estrutura de Dados e Controle de Estados com JavaScript
-* Animações utilizando CSS 3
-* Manipulação de áudio
-* Controle de fluxo de tempo para jogos
-* HTML 5
-* Ambiente de desenvolvimento Visual Studio Code
+## Tecnologia utilizadas
+- **HTML**: Estrutura do site
+- __CSS__: Estilização do site
+- *_JS_*: Funções o site
+
 ## Alterações
 
 * Acrescentado a frase "Você é um impostor!"
@@ -16,14 +14,16 @@
 * Mudança de cores
 * Velocidade
 
-<span align="center">
-  
-## Tela de inicio do Game
-  
-  <img src="https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png"></img>
+### Melhorias Possíveis
+1. [ ] Subir para o GitHubPages
+2. [ ] Alterar os alerts
+3. [ ] Utilizar o Bootstrap
+4. [ ] Deixar responsivo 
 
+### Disponibilizado em
+[GitHubPages](https://fabioramos-02.github.io/loteca-mat/)
 
-## Tela de Game Over
-
- <img src="https://user-images.githubusercontent.com/101193108/161655091-1a0d8e76-d9eb-4165-87c6-4650acea5b2a.png"></img>
-</span>
+| ID | Primeira tela | Segunda Tela |
+|----|---------------|--------------|
+| 1 | Loteca Limpa   | loteca Preenchida |
+| 2 | ![tela de Inicio](https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png) | ![Tela de Game Over](https://user-images.githubusercontent.com/101193108/161655091-1a0d8e76-d9eb-4165-87c6-4650acea5b2a.png) |
