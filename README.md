@@ -15,7 +15,7 @@
 * Velocidade
 
 ### Disponibilizado em
-[GitHubPages](https://fabioramos-02.github.io/loteca-mat/)
+[GitHubPages](https://marisol125087.github.io/jogo/)
 
 | ID | Primeira tela | Segunda Tela |
 |----|---------------|--------------|
