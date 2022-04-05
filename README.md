@@ -20,7 +20,8 @@
   
 ## Tela de inicio do Game
   
-  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
+  <img src="!https://user-images.githubusercontent.com/101193108/161654953-78b84520-29fd-4516-89a5-fb266d6b2399.png
+"></img>
 
 
 ## Tela de Game Over
