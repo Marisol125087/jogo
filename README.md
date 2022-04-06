@@ -2,9 +2,9 @@
 * https://www.youtube.com/watch?v=C3WZrP0zlUk
 
 ## Tecnologia utilizadas
-- **HTML**: Estrutura do site
-- __CSS__: Estilização do site
-- *_JS_*: Funções o site
+- **HTML**: Estrutura do jogo
+- __CSS__: Estilização do jogo
+- *_JS_*: Funções do jogo
 
 ## Alterações
 
